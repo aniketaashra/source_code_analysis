@@ -1,0 +1,2 @@
+# source_code_analysis
+Static Code Analysis is not just useful but also vital for software to work and for developers to understand their software. It simplifies the process of searching for bugs and errors, by pointing you right to them and helps identify issues. Static Code Analysis (also known as Source Code Analysis) is usually performed as part of a Code Review (also known as white-box testing) and is carried out at the Implementation phase of a Security Development Lifecycle (SDL).
